@@ -1,5 +1,6 @@
 ---
 # 铉嘉伟
+### 高级前端开发工程师
 
 - 手机/微信：17666117715 
 - Email：mifindxuan@gmail.com
@@ -10,20 +11,60 @@
 
  - 铉嘉伟/男/1993.2
  - 本科/中北大学信息与通信工程学院（ 2011 ~ 2015）
- - 工作年限：3年
+ - 工作年限：4年
  - 技术博客：[http://mifind.online/splash](http://mifind.online/splash)
  - Github：[http://github.com/mifind](http://github.com/mifind)
- - 期望职位：移动开发工程师、前端开发工程师
- - 期望薪资：税前月薪20k~30k
+ - 期望职位：前端开发工程师
+ - 期望薪资：税后24k+
  - 期望城市：上海
 
 ---
 
 # 工作经历
-## DECENT中国（2018年2月 ~ 至今）
+## 上海叶道科技有限公司（2018年10月至今）
+> 负责MIRACO平台及相关产品研发工作。<br>
+> 负责SocialEras、21smarthome研发工作。<br>
+> 负责电商中台、OP端、C端、C端脚手架研发工作。
+
+### 电商中台研发（ING）
+1. C端脚手架研发。
+	* 脚手架命令：动态生成.env配置项，根据不同数据源选择mixins、动态生成theme config。
+	* 通过配置生成页面，动态注入组件。
+2. C端基础组建拆分。 
+	* 组件细粒度拆分：将原有的电商C端项目重构，页面组件化。
+	* 根据OP端的样式配置生成响应式组件。
+3. 中台OP端
+	* theme页面及Footer页面的op端开发。
+
+### 21smarthome
+1. [WEB](https://21smarthome.com/product/1080p-dome-camera)
+2. [MOBILE](https://21smarthome.com/product/1080p-dome-camera)<br/>
+3. 该项目使用Nuxt.js+elementUI搭建。
+
+### MIRACO ISSUER
+1.  [https://issuer-staging.miraco.io](https://issuer-staging.miraco.io) <br/>
+测试账号：champion@hanes.com<br/>
+密码：888888
+2. Miraco发行商平台，用于发行商校验、发行商发币、转账、数据统计。主要是一些列表与Dashboard。
+3. 该项目使用react+mobx+antd搭建，图标使用highChart。
+
+### MIRACO WALLET与米可百宝袋小程序
+1. APP项目使用ReactNative开发（上线Google Play与非国内的所有AppleStore）。
+2. 后端接口与钱包服务(加密、账户生成、通信签名)使用Node（Web3Util）开发，nginx配置钱包微服务与智能合约、后端交互。
+3. 完成了微信小程序版本(米可百宝袋) -（mpvue）。
+
+### 官网
+1. MIRACO: [https://www.miraco.io/](https://www.miraco.io/)
+2. YEDAO: [https://www.yedao.org/](https://www.yedao.org/)
+3. 该项目使用Next.js作为基础设施搭建。
+
+### 点点达人（创业项目）
+1. 利用周末及休息时间与朋友共同研发了本地生活类跑腿送餐服务平台。
+2. 负责产品研发、需求调研、需求对接、产品原型文档、域名服务器申请与备案、服务部署运维（staging、prod、jenkins）、自动化部署脚本、官网、管理端平台研发（all in）。
+
+## DECENT中国（2018年2月 ~ 2018年10月）
 > 负责DECENT WALLET（DAPP钱包）的产品研发（前后端）。<br>
 > 负责DECENT应用生态产品研发（前后端）。<br>
-> 负责DCore Workshop的技术分享工作。<br>
 
 #### DECENT Wallet（ReactNative）
 1. 去中心化钱包开发工作。
@@ -31,10 +72,6 @@
 3. 与DCore节点交互分离到后端（node/express）。
 4. 钱包安全与设计。
 4. 页面开发。
-
-#### DECENT Vote工具
-1. DECENT社区投票工具开发工作。
-2. React+Redux+DCore.
 
 #### DECENT区块链浏览器
 1. DECENT区块链浏览器开发工作。（前后端）
@@ -75,7 +112,7 @@
 1. 负责盈峰项目管家Android版本与ReactNative版本开发。
 2. 负责项目日常迭代、包管理、产品上架等工作。
 
-## 平安银行—法本信息外派（2015年6月 ~ 2017年4月）
+## 平安银行（2015年6月 ~ 2017年4月）
 > 负责口袋银行平安信用卡模块对接与开发工作。<br>
 > 负责平安信用卡Vue部分模块的开发工作。<br>
 > 负责平安信用卡ReactNative版本部分模块的开发工作。<br>
@@ -98,21 +135,18 @@
 3. 负责卡片激活、密码管理、188红包、云闪付（NFC）、用户登录、设置、小额免密等Native页面的开发。 
 4. 协商定义接口实现，并通过挡板服务器、移动端Mock协同后台人员开发。    
 
-#### 平安宝（Android）
-1. 部分UI布局，代码完善，项目维护，组件搭建。
-
 ---
 
 # 技能清单
 
-- 前端框架：Vue/React
-- 跨平台技术框架：ReactNative/Cordova/ionic/MUI/Dore/小程序（原生/Wepy）
-- 前端工具：Bower/Gulp/Sass/Less/Webpack/echarts
+- 前端框架：Vue/React/Next/Nuxt全家桶们
+- 跨平台技术框架：ReactNative/小程序
+- 前端工具：Sass/Less/Webpack/echarts
 - 移动端：Android/Kotlin
-- Web开发：Node(express)
-- 后端：Java
-- 数据库相关：MySQL/MongoDB/SQLite/Oracle
-- 版本管理：Svn/Git
+- 后端：Node/Java
+- 数据库相关：SQL/MongoDB
+- 基础运维：nginx、docker
+- 版本管理：Git/SVN
 
 # 技能证书:
 [Front End Development of FreeCodeCamp](https://www.freecodecamp.org/mifind/front-end-certification)
