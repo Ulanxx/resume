@@ -15,28 +15,30 @@
  - 技术博客：[http://mifind.online/splash](http://mifind.online/splash)
  - Github：[http://github.com/mifind](http://github.com/mifind)
  - 期望职位：前端开发工程师
- - 期望薪资：税后24k+
+ - 期望薪资：25-30k
  - 期望城市：上海
 
 ---
 
 # 工作经历
-## 上海叶道科技有限公司（2018年10月至今）
+## 上海叶道科技有限公司（2018年9月至今）
 > 负责MIRACO平台及相关产品研发工作。<br>
 > 负责SocialEras、21smarthome研发工作。<br>
 > 负责电商中台、OP端、C端、C端脚手架研发工作。
 
-### 电商中台研发（ING）
-1. C端脚手架研发。
+### 电商中台研发
+1. C端脚手架研发（node）。
 	* 脚手架命令：动态生成.env配置项，根据不同数据源选择mixins、动态生成theme config。
 	* 通过配置生成页面，动态注入组件。
+    * health check，通过git/pm2对原有项目进行health check，动态编译与项目restart。
 2. C端基础组建拆分。 
 	* 组件细粒度拆分：将原有的电商C端项目重构，页面组件化。
 	* 根据OP端的样式配置生成响应式组件。
 3. 中台OP端
 	* theme页面及Footer页面的op端开发。
+    * 争议中心研发。
 
-### 21smarthome
+### 21smarthome(电商C端)
 1. [WEB](https://21smarthome.com/product/1080p-dome-camera)
 2. [MOBILE](https://21smarthome.com/product/1080p-dome-camera)<br/>
 3. 该项目使用Nuxt.js+elementUI搭建。
@@ -58,11 +60,7 @@
 2. YEDAO: [https://www.yedao.org/](https://www.yedao.org/)
 3. 该项目使用Next.js作为基础设施搭建。
 
-### 点点达人（创业项目）
-1. 利用周末及休息时间与朋友共同研发了本地生活类跑腿送餐服务平台。
-2. 负责产品研发、需求调研、需求对接、产品原型文档、域名服务器申请与备案、服务部署运维（staging、prod、jenkins）、自动化部署脚本、官网、管理端平台研发（all in）。
-
-## DECENT中国（2018年2月 ~ 2018年10月）
+## DECENT中国（2018年4月 ~ 2018年9月）
 > 负责DECENT WALLET（DAPP钱包）的产品研发（前后端）。<br>
 > 负责DECENT应用生态产品研发（前后端）。<br>
 
@@ -79,7 +77,7 @@
 3. BackEnd:Koa。
 
 
-## 美的集团 （ 2017年4月 ~ 2018年1月 ）
+## 美的集团 （ 2017年4月 ~ 2018年4月 ）
 > 负责美的盈峰旗下App的研发工作。<br>
 > 负责移动端平台与PC平台前端开发工作。<br>
 > 负责移动端团队的任务分配与开发风险把控，协同产品与客户进行需求评审。<br>
