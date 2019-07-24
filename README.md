@@ -10,13 +10,14 @@
 # 个人信息
 
  - 铉嘉伟/男/1993.2
- - 本科/中北大学信息与通信工程学院（ 2011 ~ 2015）
+ - 本科/中北大学信息与通信工程学院（2011 ~ 2015）
  - 工作年限：4年
  - 技术博客：[http://mifind.online/splash](http://mifind.online/splash)
  - Github：[http://github.com/mifind](http://github.com/mifind)
  - 期望职位：前端开发工程师
  - 期望薪资：25-30k
- - 期望城市：上海
+ - 期望城市：上海/杭州
+ - 技术栈：Web、Mobile（React Native、小程序）、Node
 
 ---
 
@@ -24,12 +25,12 @@
 ## 上海叶道科技有限公司（2018年9月至今）
 > 负责MIRACO平台及相关产品研发工作。<br>
 > 负责SocialEras、21smarthome研发工作。<br>
-> 负责电商中台、OP端、C端、C端脚手架研发工作。
+> 负责电商CMS中台、OP端、C端、C端脚手架研发工作。
 
 ### 电商中台研发
 1. C端脚手架研发（node）。
-	* 脚手架命令：动态生成.env配置项，根据不同数据源选择mixins、动态生成theme config。
-	* 通过配置生成页面，动态注入组件。
+	* 脚手架命令行工具：动态生成.env配置项，根据不同数据源选择mixins、动态生成theme config。
+	* 通过配置生成页面，动态注入组件。（DSL和）
     * health check，通过git/pm2对原有项目进行health check，动态编译与项目restart。
 2. C端基础组建拆分。 
 	* 组件细粒度拆分：将原有的电商C端项目重构，页面组件化。
