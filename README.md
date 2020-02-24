@@ -22,7 +22,10 @@
 ---
 
 # 工作经历
-## 上海叶道科技有限公司（2018年9月至今）
+## QTT（2018年9月至今）
+
+
+## 上海叶道科技有限公司（2018年5月至2019年9月）
 > 负责MIRACO平台及相关产品研发工作。<br>
 > 负责电商客户端SocialEras、21smarthome研发工作。<br>
 > 负责电商CMS中台、OP端、C端、C端脚手架研发工作。
@@ -64,22 +67,6 @@
 1. MIRACO: [https://www.miraco.io/](https://www.miraco.io/)
 2. YEDAO: [https://www.yedao.org/](https://www.yedao.org/)
 3. 该项目使用Next.js作为基础设施搭建。
-
-## DECENT中国（2018年4月 ~ 2018年9月）
-> 负责DECENT WALLET（DAPP钱包）的产品研发（前后端）。<br>
-> 负责DECENT应用生态产品研发（前后端）。<br>
-
-#### DECENT Wallet（ReactNative）
-1. 去中心化钱包开发工作。
-2. 负责DCoreJS SDK封装（V8环境与JSCore环境）。
-3. 与DCore节点交互分离到后端（node/express）。
-4. 钱包安全与设计。
-4. 钱包页面开发。
-
-#### DECENT区块链浏览器
-1. DECENT区块链浏览器开发工作。（前后端）
-2. FrontEnd:DVA+Umi+AntD
-3. BackEnd:Koa。
 
 
 ## 美的集团 （ 2017年4月 ~ 2018年4月 ）
