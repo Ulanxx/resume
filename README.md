@@ -12,18 +12,19 @@
  - 铉嘉伟/男/1993.2
  - 本科/中北大学信息与通信工程学院（2011 ~ 2015）
  - 工作年限：4年+
- - 技术博客：[http://mifind.online/splash](http://mifind.online/splash)
+ - 技术博客：[http://milimili.online](http://milimili.online)
  - Github：[http://github.com/mifind](http://githuab.com/mifind)
  - 期望职位：前端开发工程师
- - 期望薪资：25-28k
- - 期望城市：上海/杭州
- - 技术栈：Web（React、Vue）、Mobile（React Native、小程序）、Node、TS
+ - 期望薪资：28k-30k
+ - 期望城市：杭州
+ - 技术栈：Web（React、Vue）、Mobile（React Native、Flutter）、Node、TS
 
 ---
 
 # 工作经历
 ## Innotech（2018年9月至今）
-
+> 作为B端APP Leader负责萌推商家APP的研发工作。
+> 负责萌推B端客户端壳工具的开发工作，并完成B端IM PC客户端的技术对接。
 
 ## 上海叶道科技有限公司（2018年5月至2019年9月）
 > 负责MIRACO平台及相关产品研发工作。<br>
