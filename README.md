@@ -23,8 +23,14 @@
 
 # 工作经历
 ## Innotech（2018年9月至今）
-> 作为B端APP Leader负责萌推商家APP的研发工作。
-> 负责萌推B端客户端壳工具的开发工作，并完成B端IM PC客户端的技术对接。
+> 作为B端APP Leader负责萌推商家APP的研发工作。<br>
+> 负责萌推B端客户端壳工具的开发工作，并完成B端IM PC客户端的技术对接。<br>
+> 负责萌退B端Web MMS部分Web页面的开发迭代。
+
+### 萌推商家版（RN/Flutter）
+TODO
+### 客户端壳工具
+TODO
 
 ## 上海叶道科技有限公司（2018年5月至2019年9月）
 > 负责MIRACO平台及相关产品研发工作。<br>
@@ -34,7 +40,7 @@
 ### 电商中台研发
 1. C端脚手架研发（node）。
 	* 脚手架terminal：动态生成.env配置项，根据不同数据源选择mixins、动态生成theme config。
-	* 通过配置生成页面，动态注入组件。（DSL和）
+	* Low Code生成页面，动态编译组件。
     * health check，通过git/pm2对原有项目进行health check，动态编译与项目restart。
 2. 电商C端Web/H5。 
 	* 组件细粒度拆分：将原有的电商C端项目重构，页面组件化。
