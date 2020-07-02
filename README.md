@@ -14,23 +14,19 @@
  - 工作年限：4年+
  - 技术博客：[http://milimili.online](http://milimili.online)
  - Github：[http://github.com/mifind](http://githuab.com/mifind)
- - 期望职位：前端开发工程师
- - 期望薪资：28k-30k
+ - 期望职位：高级前端工程师
  - 期望城市：杭州
- - 技术栈：Web（React、Vue）、Mobile（React Native、Flutter）、Node、TS
+ - 技术栈：Web（React、Vue）、Mobile（React Native、Flutter）、Node
 
 ---
 
 # 工作经历
-## Innotech（2018年9月至今）
-> 作为B端APP Leader负责萌推商家APP的研发工作。<br>
+## 趣头条（2018年9月至今）
+> 负责商家端APP 开发工作，达到一周内业务方BUG反馈率减少50%，Crash上报达到0.01%以下。<br>
+> 优化商家APP Android、IOS业务，为集团RN热更新提供方案，QTT IOS端个人中心模块也对接此方案，实现RN热更新资源包95%以上下达成功率。<br>
+> 对团队进行RN、Flutter技术培训，覆盖RN、Flutter等跨平台框架的业务开发/基础架构/热更新原理/Native bridge，并完成脚手架给团队扩展学习。<br>
+> 客户端增加资源包逻辑，完成基于Myer’s diff与bsdiff算法的SDK，并部署了一套热更新服务，实现PC客户端页面打开时间不超过 1 秒，此方案可用于解决资源包、客户端APK资源拆分、RN bundle拆包热更新，可大幅减少CDN流量，正在实施方案与推广。<br>
 > 负责萌推B端客户端壳工具的开发工作，并完成B端IM PC客户端的技术对接。<br>
-> 负责萌退B端Web MMS部分Web页面的开发迭代。
-
-### 萌推商家版（RN/Flutter）
-TODO
-### 客户端壳工具
-TODO
 
 ## 上海叶道科技有限公司（2018年5月至2019年9月）
 > 负责MIRACO平台及相关产品研发工作。<br>
@@ -45,10 +41,10 @@ TODO
 2. 电商C端Web/H5。 
 	* 组件细粒度拆分：将原有的电商C端项目重构，页面组件化。
 	* 根据OP端的样式配置生成响应式组件与页面。
-3. 电商中台OP端（商品、组合商品上架、下架、物流更新、退换货操作平台）
+3. 电商OP端（商品、组合商品上架、下架、物流更新、退换货操作平台）
 	* 该项目使用react+redux+antd搭建。
 
-### 21smarthome(电商C端 - 该链接是根据中台配置生成，也手动做过一个相同的站点。)
+### 21smarthome(电商C端 - 该链接是根据运营中泰配置生成。)
 1. [WEB](https://21smarthome.com/product/1080p-dome-camera)
 2. [MOBILE](https://21smarthome.com/product/1080p-dome-camera)<br/>
 3. 该项目使用Nuxt.js+elementUI搭建，主要处理在本地组件拆分、公共组件的维护，订单流程与支付组件。
@@ -75,7 +71,6 @@ TODO
 2. YEDAO: [https://www.yedao.org/](https://www.yedao.org/)
 3. 该项目使用Next.js作为基础设施搭建。
 
-
 ## 美的集团 （ 2017年4月 ~ 2018年4月 ）
 > 负责美的盈峰旗下App的研发工作。<br>
 > 负责移动端平台与PC平台前端开发工作。<br>
@@ -91,11 +86,6 @@ TODO
 2. 负责地图页面与组件展示工作。（arcGIS、jquery）
 3. 负责原生h5项目与vue项目交互与对接工作。
 4. 负责部分后台接口开发工作。（Spring Boot）
-
-#### 桂畔海公众号（Vue）
-1. 负责桂畔海公众号项目搭建与开发。（Vue+Vuex+Vux）
-2. 负责组件拆分、Module拆分。
-3. 负责打包与项目优化。
 
 #### 移动端基础平台（ReactNative/Vue/小程序）
 1. 负责ReactNative基础平台（UI组件、业务组件、交互型组件）开发工作。
@@ -123,7 +113,6 @@ TODO
 1. 负责平安信用卡ReactNative版本部分模块的开发工作，进行IOS、Android双平台适配，合理 优化ReactNative代码，模块组件化，公有模块的拆分。
 2. ReactNative与Native的对接，并适配Android、IOS双平台，将信用卡App作为子模块与平安口袋银行合并，进行适配与开发工作。     
 
-
 #### 平安信用卡（Android）
 1. 部分自定义View的开发、部分动画开发。 
 2. 协同进行Request框架封装与新框架的重构。 
@@ -145,6 +134,7 @@ TODO
 
 # 技能证书:
 [Front End Development of FreeCodeCamp](https://www.freecodecamp.org/mifind/front-end-certification)
+蓝桥杯Java组省一
 
 ---
 
