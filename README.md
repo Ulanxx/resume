@@ -122,19 +122,18 @@
 
 # 技能清单
 
-- 前端框架：Vue/React/Next/Nuxt全家桶们
-- 跨平台技术框架：ReactNative/小程序
-- 前端工具：Sass/Less/Webpack/echarts
+- 前端框架：JS及各种框架们
+- 跨平台技术框架：ReactNative/Flutter/Taro/mpvue
 - 移动端：Android/Kotlin
 - 后端：Node/Java
 - 数据库相关：SQL/MongoDB
 - 基础运维：nginx、docker
-- 版本管理：Git/SVN
+- 版本管理：Git
 - 主要语言JS、TS
 
 # 技能证书:
-[Front End Development of FreeCodeCamp](https://www.freecodecamp.org/mifind/front-end-certification)
-蓝桥杯Java组省一
+> [Front End Development of FreeCodeCamp](https://www.freecodecamp.org/mifind/front-end-certification) <br>
+> 蓝桥杯Java组省一
 
 ---
 
