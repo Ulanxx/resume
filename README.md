@@ -1,21 +1,13 @@
----
-# 铉嘉伟
-### 高级前端开发工程师
-
-- 手机/微信：17666117715
-- Email：mifindxuan@gmail.com
----
-
 # 个人信息
 
 - 铉嘉伟/男/1993.2
 - 本科/中北大学信息与通信工程学院（2011 ~ 2015）
 - 工作年限：7 年
-- 技术博客：[https://ulannxx.online/](https://ulannxx.online/)
-- Github：[https://github.com/ulanxx](https://github.com/ulanxx)
 - 期望职位：前端工程师
 - 当前城市：杭州
 - 技术栈：Web（React、Vue）、Mobile（React Native、Flutter、MiniApp）、Node
+- 电话: 17666117715
+- Email: mifind@sina.com
 
 ---
 
