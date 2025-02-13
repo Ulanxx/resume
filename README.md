@@ -6,7 +6,7 @@
 - 工作经验：10年
 - 当前城市：杭州
 - 电话: 17666117715
-- Email: [mifindxuan@gmail.com](mailto: mifindxuan@gmail.com)
+- Email: mifindxuan@gmail.com
 
 # 个人优势
 
